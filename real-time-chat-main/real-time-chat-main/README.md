@@ -26,7 +26,7 @@ The purpose of this project was to learn how to use Socket.io to build a real ti
 
 ## Links
 
-- [Source Code](https://github.com/codersuresh/real-time-chat)
+- [Source Code](https://github.com/rameshsanjay29/real-time-chat-main)
 
 ## What I Learned
 
