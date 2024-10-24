@@ -13,10 +13,6 @@ This is a simple real time chat application built using Next.js, Tailwindcss, Ex
 
 The purpose of this project was to learn how to use Socket.io to build a real time chat application.
 
-## Screenshots
-
-![Real time chat web app](/public/screenshot.png)
-
 ## Features
 
 - Auto scroll to bottom when new message is received
