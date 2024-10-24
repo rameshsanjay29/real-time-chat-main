@@ -4,8 +4,6 @@ This is a simple real time chat application built using Next.js, Tailwindcss, Ex
 
 ## Demo
 
-You can test it out here:
-[https://chat-codersuresh.vercel.app/](https://chat-codersuresh.vercel.app/)
 
 ## Table of Contents
 
@@ -33,7 +31,6 @@ The purpose of this project was to learn how to use Socket.io to build a real ti
 
 ## Links
 
-- [Live Site](https://chat-codersuresh.vercel.app/)
 - [Source Code](https://github.com/codersuresh/real-time-chat)
 
 ## What I Learned
