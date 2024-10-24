@@ -1,14 +1,9 @@
 # Real Time Chat Application
 
 This is a simple real time chat application built using Next.js, Tailwindcss, Express, and Socket.io. Frontend is deployed on Vercel and backend is deployed on Render.com.
-
-## Demo
-
-
 ## Table of Contents
 
 - [Purpose](#purpose)
-- [Screenshots](#screenshots)
 - [Features](#features)
 - [Links](#links)
 - [What I Learned](#what-i-learned)
